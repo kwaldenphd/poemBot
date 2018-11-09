@@ -97,8 +97,10 @@ When you hold the button for a few seconds, it will shutdown.
 
 ## References
 
-UBC RAD-device, https://github.com/asistubc/RAD-device
+UBC RAD-device, https://github.com/asistubc/RAD-device 
 
-Little Box of Poems, http://www.suppertime.co.uk/blogmywiki/2012/12/pi-poems/
+Little Box of Geek, http://geekgurldiaries.blogspot.com/2012/12/little-box-of-geek-project.html (archived: https://perma.cc/6TFB-CBGL )
 
-Adafruit IoT Printer, https://learn.adafruit.com/pi-thermal-printer/overview
+Little Box of Poems, http://www.suppertime.co.uk/blogmywiki/2012/12/pi-poems/ (archived: http://perma.cc/MV9K-AYSB )
+
+Adafruit IoT Printer, https://learn.adafruit.com/pi-thermal-printer/overview (archived: https://perma.cc/QD65-VT7N )
