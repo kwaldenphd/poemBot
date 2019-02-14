@@ -95,6 +95,13 @@ Now, when you plug in the poemBot, it starts up after a minute ready to print po
 When you press the button, it prints a poem. 
 When you hold the button for a few seconds, it will shutdown.
 
+## Other uses in the wild
+
+- Wooster [intro-to-dh course](https://jacobheil.github.io/intro-to-dh/prompts/poetry_month.html) (Jacob Heil), [github](https://github.com/WoosterDH/poemBot-Scripts), [tweet](https://twitter.com/dr_heil/status/989482390388117504)
+- Digital Scholarship @ Swarthmore, [fork](https://github.com/swat-ds/poemBot)
+- Lewis & Clark students (Sophia Horigan, Raspberry Pi workshop), https://perma.cc/W3N8-VJL3
+- Mentioned by NCSU [bookBot article](http://hyperrhiz.io/hyperrhiz18/kits/wust-bookbot-technical.html)
+
 ## References
 
 UBC RAD-device, https://github.com/asistubc/RAD-device 
