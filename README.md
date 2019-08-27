@@ -104,6 +104,8 @@ When you hold the button for a few seconds, it will shutdown.
 
 ## References
 
+Evan Williamson and Devin Becker, "Programming Poetry: Using a Poem Printer and Web Programming to Build Vandal Poem of the Day", *code4lib Journal* 45 (Aug 9, 2019), https://journal.code4lib.org/articles/14575 
+
 UBC RAD-device, https://github.com/asistubc/RAD-device 
 
 Little Box of Geek, http://geekgurldiaries.blogspot.com/2012/12/little-box-of-geek-project.html (archived: https://perma.cc/6TFB-CBGL )
