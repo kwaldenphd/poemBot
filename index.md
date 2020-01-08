@@ -31,6 +31,10 @@ Here's what it looks like inside:
 
 ![poemBot insides](images/poemBot_inside.JPG)
 
+Here is another version that shows off its insides all the time:
+
+![poemBot open case](images/poemBot5.JPG)
+
 ## Example Implementation
 
 This repository contains a complete example implementation using public domain poems, plus all the original VPOD files used for various purposes (which might not include the data and image files due to copyright). 
@@ -70,11 +74,13 @@ Convert the encoding to CP437.
 
 ## Set Up
 
-The Raspberry Pi needs to be set up to run headless. 
+The Raspberry Pi needs to be set up to run headless (I used the official [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) minimal image).
 SSH in for set up and testing. 
 After testing the Python main loop and poem printing, set it to load on boot by editing rc.local:
 
-```sudo nano /etc/rc.local```
+```
+sudo nano /etc/rc.local
+```
 
 Add the terminal command to start the python script before the line "exit 0":
 
@@ -83,7 +89,21 @@ cd /home/pi/poemBot
 python poemsMain.py &
 ```
 
+Now, when you plug in the poemBot, it starts up after a minute ready to print poems. 
+When you press the button, it prints a poem. 
+When you hold the button for a few seconds, it will shutdown.
+
+## Other uses in the wild
+
+- Wooster [intro-to-dh course](https://jacobheil.github.io/intro-to-dh/prompts/poetry_month.html) (Jacob Heil), [github](https://github.com/WoosterDH/poemBot-Scripts), [tweet](https://twitter.com/dr_heil/status/989482390388117504)
+- Digital Scholarship @ Swarthmore, [fork](https://github.com/swat-ds/poemBot)
+- Lewis & Clark students (Sophia Horigan, Raspberry Pi workshop), https://perma.cc/W3N8-VJL3
+- Mentioned by NCSU [bookBot article](http://hyperrhiz.io/hyperrhiz18/kits/wust-bookbot-technical.html)
+- At University of Nebraska–Lincoln Libraries ([news item](https://news.unl.edu/newsrooms/today/article/poetry-month-celebrations-open-with-reading-exhibition/))
+
 ## References
+
+Evan Williamson and Devin Becker, "Programming Poetry: Using a Poem Printer and Web Programming to Build Vandal Poem of the Day", *code4lib Journal* 45 (Aug 9, 2019), https://journal.code4lib.org/articles/14575 
 
 UBC RAD-device, <https://github.com/asistubc/RAD-device>
 
