@@ -101,6 +101,7 @@ When you hold the button for a few seconds, it will shutdown.
 - Digital Scholarship @ Swarthmore, [fork](https://github.com/swat-ds/poemBot)
 - Lewis & Clark students (Sophia Horigan, Raspberry Pi workshop), https://perma.cc/W3N8-VJL3
 - Mentioned by NCSU [bookBot article](http://hyperrhiz.io/hyperrhiz18/kits/wust-bookbot-technical.html)
+- At University of Nebraska–Lincoln Libraries ([news item](https://news.unl.edu/newsrooms/today/article/poetry-month-celebrations-open-with-reading-exhibition/))
 
 ## References
 
