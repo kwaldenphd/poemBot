@@ -148,6 +148,7 @@ Other
 ### "Reading and Writing With Electronic Text" NYU ITP course, Spring 2023
 - [Class notebooks and code, GitHub](https://github.com/aparrish/rwet)
 - [Class website](https://rwet.decontextualize.com/)
+- [KW Google Drive folder with materials](https://drive.google.com/drive/folders/11AxvrnU012lTCJFEsytsNwSAaGt4pC6b?usp=share_link)
 - Jupyter Notebooks
   - Foundational
     - "[Jupyter Notebook tutorial](https://github.com/aparrish/rwet/blob/master/jupyter-notebook-tutorial.ipynb)"
@@ -175,3 +176,15 @@ Other
 - [GitHub](https://github.com/aparrish/pycorpora)
 - [Original Darius Kazemi's Corpora Project](https://github.com/dariusk/corpora)
   * *Seems deprecated and doesn't work based on current documentation*
+  
+## `olipy` (a rare non-Allison Parrish original)
+
+"Olipy is a Python library for artistic text generation. Unlike most software packages, which have a single, unifying purpose. Olipy is more like a set of art supplies. Each module is designed to help you achieve a different aesthetic effect."
+
+- [documentation](https://pypi.org/project/olipy/)
+- [KW Jupyter Notebook](https://colab.research.google.com/drive/1LOyjlVh2zI96xjm3epkiqUiomPCL2xOl?usp=sharing)
+
+## Speech-To-Text
+
+- [KW Jupyter Notebook](https://colab.research.google.com/drive/1pcfCcOmZfq_43QNeJIL574ik8cjIFmKJ?usp=sharing)
+
