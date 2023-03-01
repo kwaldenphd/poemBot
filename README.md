@@ -16,7 +16,6 @@ Documentation and instructional materials forked from @evanwill's [poemBot](http
 
 ### Project Gutenberg
 
-
 Allison Parish materials
 - [Gutenberg, dammit](https://github.com/aparrish/gutenberg-dammit/) (full corpus)
 - [Gutenberg corpus](https://github.com/aparrish/gutenberg-poetry-corpus) (poetry corpus)
@@ -95,5 +94,25 @@ Built a program that scrapes all titles included in the API.
 - Loads data from `CSV`
 - Function that selects and outputs random poem
 - Function that selects and outputs random poem based on keyword input
+
+## Jupyter Notebooks
+
+Exploring Allison Parrish's materials/resources
+- [allison-parrish](https://colab.research.google.com/drive/1DiWHgo5ugK_mEaAbCWNS_y2YKB3YgNQQ?usp=share_link)
+- [project-gutenberg-parrish](https://colab.research.google.com/drive/168SXWCO_NI7uvbTLZRHYQNU7Rbe7KnwF?usp=share_link)
+- [gutenberg-explorations](https://colab.research.google.com/drive/1PfqleS2Bh4-I3CnOt7tKV-Lc4CHtmhGT?usp=share_link)
+- [magic-words](https://colab.research.google.com/drive/1tAP5tSJStzFvJaudzcpaesRKVkFD6ykk?usp=share_link)
+- [spacy](https://colab.research.google.com/drive/1IQXIkK9KZdfG3gT8dszh1NG-Dzc-sMCF?usp=share_link)
+
+Data wrangling/filtering, test interface
+- [data-wrangling](https://colab.research.google.com/drive/1DiWHgo5ugK_mEaAbCWNS_y2YKB3YgNQQ?usp=share_link)
+- [other-data-sources](https://colab.research.google.com/drive/1Gv8vd51xug1tKX8Mkn5H3T9G6eWI4VIe?usp=share_link)
+- [filtering-poems](https://colab.research.google.com/drive/1iFEAXZu58O22BLPva5xBJWEI8EFVMlU0?usp=share_link)
+- [test-interface](https://colab.research.google.com/drive/1zQhl36ph35K-dO_mzTWrme5np804yo0I?usp=share_link)
+
+Other
+- [olipy](https://colab.research.google.com/drive/1LOyjlVh2zI96xjm3epkiqUiomPCL2xOl?usp=share_link)
+- [original-combined](https://colab.research.google.com/drive/1h8qgWMNcY7NAn2J5_qxFZvuk34PCR1dA?usp=share_link)
+- [speech-to-text](https://colab.research.google.com/drive/1pcfCcOmZfq_43QNeJIL574ik8cjIFmKJ?usp=share_link)
 
 ## All the Allison Parrish Things
