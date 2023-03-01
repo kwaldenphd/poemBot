@@ -116,3 +116,62 @@ Other
 - [speech-to-text](https://colab.research.google.com/drive/1pcfCcOmZfq_43QNeJIL574ik8cjIFmKJ?usp=share_link)
 
 ## All the Allison Parrish Things
+
+### Project Gutenberg
+- [Gutenberg, dammit](https://github.com/aparrish/gutenberg-dammit/) (full corpus)
+- [Gutenberg corpus](https://github.com/aparrish/gutenberg-poetry-corpus) (poetry corpus)
+  - ["Quick Experiments" Jupyter Notebook](https://github.com/aparrish/gutenberg-poetry-corpus/blob/master/quick-experiments.ipynb)
+  - ["Plot to Poem" 2017 NoPaGenMo Jupyter Notebook](https://github.com/aparrish/plot-to-poem/blob/master/plot-to-poem.ipynb)
+- [Gutenberg Poetry Autocomplete](http://gutenberg-poetry.decontextualize.com/)
+
+### `pronouncing`, *interface for CMU Pronouncing Dictionary*
+- [documentation](https://pronouncing.readthedocs.io/en/latest/index.html)
+- [Updated Jupyter Notebook cookbook](https://github.com/aparrish/nonsense-verse-pycon-2020/blob/master/pronouncing-tutorial.ipynb)
+
+### `Pincelate`, *ML model for spelling & sounding out English words*
+- [documentation](https://pincelate.readthedocs.io/en/latest/)
+- [Jupyter Notebook tutorial and cookbook](https://github.com/aparrish/nonsense-verse-pycon-2020/blob/master/pincelate-tutorial-and-cookbook.ipynb)
+- [PyCon 2020 workshop](https://github.com/aparrish/nonsense-verse-pycon-2020)
+- [Bobey Dig 2019 NaNoGenMo notebook](https://github.com/aparrish/bobey-dig/blob/master/headcoldify.ipynb)
+  * NOTE: `Tensorflow` & `Keras` dependencies require Python <3.8 (so no option to run on Google Colab- requires local session)
+
+### Magic & divinatory language
+- [Workshop materials](https://github.com/aparrish/comexmadivla)
+- [Speculative magic words Jupyter Notebook (string manipulation, `Pincelate`)](https://github.com/aparrish/comexmadivla/blob/master/magic-words-workbook.ipynb)
+- [Cartomancy and semantic space Jupyter Notebook](https://github.com/aparrish/comexmadivla/blob/master/cartomancy-semantic-space.ipynb)
+
+### `Tracery` *Python tracery port*
+- [documentation](https://github.com/aparrish/pytracery)
+- [original Tracery, Kate Compton](http://tracery.io/)
+- [Tracery tutorial](http://www.crystalcodepalace.com/traceryTut.html)
+
+### "Reading and Writing With Electronic Text" NYU ITP course, Spring 2023
+- [Class notebooks and code, GitHub](https://github.com/aparrish/rwet)
+- [Class website](https://rwet.decontextualize.com/)
+- Jupyter Notebooks
+  - Foundational
+    - "[Jupyter Notebook tutorial](https://github.com/aparrish/rwet/blob/master/jupyter-notebook-tutorial.ipynb)"
+    - "[Programming Exercise A](https://github.com/aparrish/rwet/blob/master/programming-exercise-a.ipynb)"
+    - "[Expressions & strings](https://github.com/aparrish/rwet/blob/master/expressions-and-strings.ipynb)"
+    - "[Some poetry generators](https://github.com/aparrish/rwet/blob/master/some-poetry-generators.ipynb)"
+    - "[Programming Exercise B](https://github.com/aparrish/rwet/blob/master/programming-exercise-b.ipynb)"
+    - "[Understanding lists, manipulating files](https://github.com/aparrish/rwet/blob/master/understanding-lists-manipulating-lines.ipynb)"
+    - "[Poetics of grouping](https://github.com/aparrish/rwet/blob/master/poetics-of-grouping.ipynb)"
+    - "[Programming Exercise C](https://github.com/aparrish/rwet/blob/master/programming-exercise-c.ipynb)"
+    - "[Dealing With JSON](https://github.com/aparrish/rwet/blob/master/dealing-with-json.ipynb)"
+    - "[Tracery & Python](https://github.com/aparrish/rwet/blob/master/tracery-and-python.ipynb)"
+  - Other
+    - "[Regular expressions in Python](https://github.com/aparrish/rwet/blob/master/regular-expressions-a-gentle-introduction.ipynb)"
+    - "[Keyword extraction](https://github.com/aparrish/rwet/blob/master/quick-and-dirty-keywords.ipynb)"
+    - "[Scraping HTML](https://github.com/aparrish/rwet/blob/master/scraping-html.ipynb)"
+  - Advanced
+    - "[Natural Language Processing Concepts With Spacy](https://github.com/aparrish/rwet/blob/master/nlp-concepts-with-spacy.ipynb)"
+    - "[N-grams an dmarkov chains](https://github.com/aparrish/rwet/blob/master/ngrams-and-markov-chains.ipynb)"
+    - "[Undersanding word vectors](https://github.com/aparrish/rwet/blob/master/understanding-word-vectors.ipynb)"
+    - "[Neighbors, clusters and classification](https://github.com/aparrish/rwet/blob/master/neighbors-clusters-classification.ipynb)"
+    - "[Playing With Transformers](https://github.com/aparrish/rwet/blob/master/transformers-playground.ipynb)"
+
+### `pycorpora` *Python interface for Darius Kazemi's [Corpora Project](https://github.com/dariusk/corpora)*
+- [GitHub](https://github.com/aparrish/pycorpora)
+- [Original Darius Kazemi's Corpora Project](https://github.com/dariusk/corpora)
+  * *Seems deprecated and doesn't work based on current documentation*
