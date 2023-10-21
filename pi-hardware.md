@@ -3,9 +3,37 @@
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
 This tutorial is written by [Katherine Walden](https://github.com/kwaldenphd) and is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
-# Python & Hardware
+# Table of Contents
 
-[Google Drive folder](https://drive.google.com/drive/folders/1PrI5VLy7jH9IXMMu9_d_7xLK_WHtyJUh?usp=drive_link) with Python explorations.
+- [GPIO Overview](#gpio-overview)
+- [Other Kinds of Connections](#other-kinds-of-connections)
+- [How To Use This Guide](#how-to-use-this-guide)
+- [Input](#input)
+  * [Buttons](#buttons)
+  * [Joysticks](#joysticks)
+  * [Touch](#touch)
+  * [Motion](#motion)
+  * [Text](#text)
+  * [Speech / Sound](#speech--sound)
+  * [Image](#image)
+    * [Camera](#camera)
+    * [Other Displays](#other-displays)
+      * [TFTs](#tfts)
+      * [LCDs](#lcds)
+      * [CharliePlex LED Matrix](#charlieplex-led-matrix)
+      * [Other LEDs](#other-leds)
+      * [HDMI Displays](#hdmi-displays)
+- [Output](#output)
+  * [LCD](#lcd)
+  * [LED Matrix](#led-matrix)
+  * [Other LED](#other-led)
+  * [TFT](#tft)
+  * [Sound](#sound)
+  * [Screen](#screen)
+  * [Print](#print)
+  * [Motion](#motion)
+
+[Google Drive folder](https://drive.google.com/drive/folders/1PrI5VLy7jH9IXMMu9_d_7xLK_WHtyJUh?usp=drive_link) with Python scripts.
 
 # GPIO Overview
 
@@ -1057,7 +1085,7 @@ lcd.color = [0,0,0] # turn off lights
 lcd.clear() # clear screen
 ```
 
-### Charlieplex LED Matrix
+### LED Matrix
 
 
 <table>
@@ -1082,7 +1110,7 @@ lcd.clear() # clear screen
 
 This kind of output could involve varying color intensity, lighting individual LEDs, or other kinds of single-color displays.
 
-### Other LEDs
+### Other LED
 
 - Unicorn HAT (16 x 16 grid, 3580)
 - Unicorn HAT mini (17 X 7 grid, 4637)
